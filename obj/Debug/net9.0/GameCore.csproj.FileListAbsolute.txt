@@ -1,0 +1,11 @@
+C:\Users\Eren\OneDrive\Masaüstü\GameCore\obj\Debug\net9.0\GameCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\OneDrive\Masaüstü\GameCore\obj\Debug\net9.0\GameCore.AssemblyInfoInputs.cache
+C:\Users\Eren\OneDrive\Masaüstü\GameCore\obj\Debug\net9.0\GameCore.AssemblyInfo.cs
+C:\Users\Eren\OneDrive\Masaüstü\GameCore\obj\Debug\net9.0\GameCore.csproj.CoreCompileInputs.cache
+C:\Users\Eren\OneDrive\Masaüstü\GameCore\bin\Debug\net9.0\GameCore.deps.json
+C:\Users\Eren\OneDrive\Masaüstü\GameCore\bin\Debug\net9.0\GameCore.dll
+C:\Users\Eren\OneDrive\Masaüstü\GameCore\bin\Debug\net9.0\GameCore.pdb
+C:\Users\Eren\OneDrive\Masaüstü\GameCore\obj\Debug\net9.0\GameCore.dll
+C:\Users\Eren\OneDrive\Masaüstü\GameCore\obj\Debug\net9.0\refint\GameCore.dll
+C:\Users\Eren\OneDrive\Masaüstü\GameCore\obj\Debug\net9.0\GameCore.pdb
+C:\Users\Eren\OneDrive\Masaüstü\GameCore\obj\Debug\net9.0\ref\GameCore.dll
